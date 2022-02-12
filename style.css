@@ -2,10 +2,6 @@
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
-body{
-  margin: 0;
-  padding: 0;
-}
 /*Copy from here to next comment for NAVBAR code*/
 .navbar{
   display: flex;
@@ -137,3 +133,7 @@ body{
   }
 }
 /*Body*/
+body{
+  margin: 0;
+  padding: 0;
+}
