@@ -1,0 +1,140 @@
+.tab {
+    margin-left: 50px;
+    }
+.header {
+    margin-left: 80px;
+    position: relative;
+    top: 60px;
+    color: rgb(5, 5, 5);
+}
+.SignUp {
+    position:relative;
+    top: 80px;
+    left:240px;
+    width: 200px;
+    height: 50px;
+    border-radius: 100px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(7, 103, 247);
+    color: white;
+}
+.title {
+    position: relative;
+    left: 1250px;
+    font-size: x-large;
+    bottom: 120px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-google {
+    background: #DD4B39;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007BB5;
+    color: white;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.socialmedia {
+    position: relative;
+    left:1200px;
+    top: 400px;
+}
+.input-icons {
+    width:10%;
+    position: relative;
+    left: 1100px;
+    bottom:200px;
+}
+.icon {
+    padding:5px;
+    position: relative;
+    top:60px;
+    left: 20px
+}
+.input-field {
+    width: 500px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 100px;
+    box-shadow: grey;
+    border-color:rgba(103, 103, 107, 0.993);
+}
+.fa-solid {
+    position: relative;
+    top:50px;
+    left: 35px;
+  }
+  .SignUp2 {
+    position:relative;
+    bottom: 160px;
+    left:1250px;
+    width: 200px;
+    height: 50px;
+    border-radius: 100px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(7, 103, 247);
+    color: white;
+}
+.texts {
+    position: relative;
+    bottom: 160px;
+    left: 1220px;
+}
+.background {
+    position: relative;
+    bottom: 600px;
+    left: 200px
+}
+white_check_mark
+eyes
+raised_hands::skin-tone-4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
